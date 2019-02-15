@@ -1,4 +1,4 @@
-//smart contract to send ether
+
 pragma solidity 0.5.1;
 contract exchange{
     
